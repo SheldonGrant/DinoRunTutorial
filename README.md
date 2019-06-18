@@ -25,3 +25,5 @@ Dependencies can be installed using pip install or conda install for Anaconda en
 - OpenCV
 
 <br/>
+
+added some changes
